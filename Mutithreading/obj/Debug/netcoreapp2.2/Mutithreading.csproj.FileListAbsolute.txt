@@ -1,0 +1,11 @@
+F:\C#_Projects\TP\Mutithreading\bin\Debug\netcoreapp2.2\Mutithreading.deps.json
+F:\C#_Projects\TP\Mutithreading\bin\Debug\netcoreapp2.2\Mutithreading.runtimeconfig.json
+F:\C#_Projects\TP\Mutithreading\bin\Debug\netcoreapp2.2\Mutithreading.runtimeconfig.dev.json
+F:\C#_Projects\TP\Mutithreading\bin\Debug\netcoreapp2.2\Mutithreading.dll
+F:\C#_Projects\TP\Mutithreading\bin\Debug\netcoreapp2.2\Mutithreading.pdb
+F:\C#_Projects\TP\Mutithreading\obj\Debug\netcoreapp2.2\Mutithreading.csprojAssemblyReference.cache
+F:\C#_Projects\TP\Mutithreading\obj\Debug\netcoreapp2.2\Mutithreading.csproj.CoreCompileInputs.cache
+F:\C#_Projects\TP\Mutithreading\obj\Debug\netcoreapp2.2\Mutithreading.AssemblyInfoInputs.cache
+F:\C#_Projects\TP\Mutithreading\obj\Debug\netcoreapp2.2\Mutithreading.AssemblyInfo.cs
+F:\C#_Projects\TP\Mutithreading\obj\Debug\netcoreapp2.2\Mutithreading.dll
+F:\C#_Projects\TP\Mutithreading\obj\Debug\netcoreapp2.2\Mutithreading.pdb

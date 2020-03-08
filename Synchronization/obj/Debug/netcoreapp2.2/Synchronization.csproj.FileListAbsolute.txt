@@ -1,0 +1,11 @@
+F:\C#_Projects\TP\Synchronization\bin\Debug\netcoreapp2.2\Synchronization.deps.json
+F:\C#_Projects\TP\Synchronization\bin\Debug\netcoreapp2.2\Synchronization.runtimeconfig.json
+F:\C#_Projects\TP\Synchronization\bin\Debug\netcoreapp2.2\Synchronization.runtimeconfig.dev.json
+F:\C#_Projects\TP\Synchronization\bin\Debug\netcoreapp2.2\Synchronization.dll
+F:\C#_Projects\TP\Synchronization\bin\Debug\netcoreapp2.2\Synchronization.pdb
+F:\C#_Projects\TP\Synchronization\obj\Debug\netcoreapp2.2\Synchronization.csprojAssemblyReference.cache
+F:\C#_Projects\TP\Synchronization\obj\Debug\netcoreapp2.2\Synchronization.csproj.CoreCompileInputs.cache
+F:\C#_Projects\TP\Synchronization\obj\Debug\netcoreapp2.2\Synchronization.AssemblyInfoInputs.cache
+F:\C#_Projects\TP\Synchronization\obj\Debug\netcoreapp2.2\Synchronization.AssemblyInfo.cs
+F:\C#_Projects\TP\Synchronization\obj\Debug\netcoreapp2.2\Synchronization.dll
+F:\C#_Projects\TP\Synchronization\obj\Debug\netcoreapp2.2\Synchronization.pdb
