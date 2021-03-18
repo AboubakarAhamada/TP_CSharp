@@ -16,7 +16,7 @@ class ThreadClass{
 
     public void Thread3(){
         for( int i=0;i<5;i++)
-            Console.WriteLine("Thread3 : Bonjour tout le monde");
+            Console.WriteLine("Thread3 : Bonjour tout le monde, ici géneral multithreading");
     }
 }
 
